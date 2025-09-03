@@ -1,0 +1,120 @@
+{
+    "offers":[
+        {
+            "src": "./img/offer1.png",
+            "alt": "Quattro Pasta",
+            "title": "Quattro Pasta",
+            "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "discount": 100,
+            "sale": 50,
+            "parentSelector": ".offers-items"
+        },
+        {
+            "src": "./img/offer2.png",
+            "alt": "Vegertarian Pasta",
+            "title": "Vegertarian Pasta",
+            "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "discount": 45,
+            "sale": 35,
+            "parentSelector": ".offers-items"
+        },
+        {
+            "src": "./img/offer3.png",
+            "alt": "Gluten-Free Pasta",
+            "title": "Gluten-Free Pasta",
+            "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "discount": 25,
+            "sale": 15,
+            "parentSelector": ".offers-items"
+        }
+    ],
+    "menu-left":[
+        {
+    "src": "./img/food1.png",
+    "alt": "Quattro Pasta",
+    "title": "Quattro Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 15.00
+  },
+  {
+    "src": "./img/food2.png",
+    "alt": "Vegertarian Pasta",
+    "title": "Vegertarian Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 5.00
+  },
+  {
+    "src": "./img/food3.png",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food4.png",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food5.png",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food6.png",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  }
+    ],
+    
+    "menu-right":[
+        {
+    "src": "./img/food7.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food8.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food9.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food10.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food11.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  },
+  {
+    "src": "./img/food12.jpeg",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "price": 25.00
+  }
+    ]
+  }
